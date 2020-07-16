@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mini抖音</string>
+    <string name="request_data">请求数据</string>
+    <string name="requesting">刷新…</string>
+    <string name="select_an_image">本地上传</string>
+    <string name="select_a_video">选择视频</string>
+    <string name="post_it">上传</string>
+    <string name="select_myself">我的视频</string>
+    <string name="refresh_feed">刷新</string>
+    <string name="success_try_refresh">成功, 尝试刷新!</string>
+</resources>
